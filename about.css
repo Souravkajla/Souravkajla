@@ -1,0 +1,366 @@
+.firstdiv {
+  height: 65vh;
+  background-color: #002347;
+  background-image: url(https://i.postimg.cc/cHBCSVPN/pexels-tara-winstead-8383413.jpg);
+}
+
+.tanccoding {
+  font-size: 45px;
+  color: #eeeeee;
+  font-weight: 800;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.home,
+.about,
+.blog,
+.pages,
+.contact {
+  color: #ebe5e9;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: "rubik", sans-serif;
+  font-weight: 700;
+}
+
+.heading {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 25px;
+  margin-left: 270px;
+  margin-top: 30px;
+}
+
+.head1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.head1 h2 {
+  color: #eeeeee;
+  font-size: 40px;
+  font-family: "rubik", sans-serif;
+  font-weight: 600;
+}
+
+.head1 p {
+  color: #eeeeee;
+  font-size: 16px;
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  margin-top: -10px;
+}
+
+/* new styling */
+
+.photo {
+  display: flex;
+  gap: 30px;
+  padding-top: 140px;
+  padding-left: 70px;
+  padding-bottom: 120px;
+}
+
+.photo2 {
+  border: 10px solid #e6e6f5;
+  padding: 50px;
+  padding-right: 120px;
+  margin-left: -100px;
+  z-index: -1;
+}
+
+.photo2 h3 {
+  color: #002347;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 100px;
+}
+
+.photo2 p {
+  color: #334f6c;
+  font-size: 18px;
+  margin-left: 60px;
+}
+
+.button {
+  color: #002347;
+  background-color: #fdc632;
+  padding: 20px;
+  font-size: 17px;
+  margin-left: 200px;
+  border-radius: 5px;
+}
+
+/* new styling */
+
+#mn2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 130px;
+}
+
+.awe {
+  font-family: "rubik", sans-serif;
+  text-transform: uppercase;
+  color: #eeeeee;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.para {
+  color: #7b838a;
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 0px;
+}
+
+.schol {
+  font-family: "rubik", sans-serif;
+  font-size: 20px;
+  color: #002347;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+
+.onem {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7b838a;
+  display: flex;
+  justify-content: center;
+}
+
+#mn4 {
+  background-color: white;
+  height: 170px;
+  width: 320px;
+  margin-left: 150px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.sll {
+  font-family: "rubik", sans-serif;
+  font-size: 20px;
+  color: #002347;
+  font-weight: 500;
+}
+
+.hv {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7b838a;
+  margin-top: 0;
+}
+
+#mn5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 320px;
+  height: 170px;
+  margin-top: 50px;
+  border-radius: 10px;
+  /* margin-left: 500px; */
+}
+
+#mn3 {
+  display: flex;
+  gap: 30px;
+}
+
+#mn6 {
+  height: 170px;
+  width: 320px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.glb {
+  font-family: "rubik", sans-serif;
+  font-size: 20px;
+  color: #002347;
+  font-weight: 500;
+}
+
+.hav {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #7b838a;
+  margin-top: 0;
+}
+
+.head3 {
+  height: 100vh;
+  background-color: #002347;
+}
+
+/* new styling */
+
+.lastdiv {
+  color: #002347;
+  font-family: "rubik", sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.lastpara {
+  color: #334f6c;
+  font-size: 18px;
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+  text-align: center;
+  margin-top: -15px;
+  font-style: italic;
+}
+
+.person1 {
+  color: #002347;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: "rubik", sans-serif;
+  margin-bottom: 0;
+}
+
+.person2 {
+  color: #334f6c;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "roboto", sans-serif;
+}
+
+#lastp {
+  display: flex;
+  gap: 100px;
+}
+
+.img7 {
+  background-color: #eeeeee;
+  width: 500px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 90px;
+  border-radius: 10px;
+}
+
+.youngman {
+  padding-right: 20px;
+}
+
+.img8 {
+  background-color: #eeeeee;
+  width: 500px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.img7:hover,
+.img8:hover {
+  box-shadow: 2px 2px 5px;
+  cursor: pointer;
+}
+
+/* new styling */
+
+.footer {
+  height: 70vh;
+  background-color: #002347;
+  margin-top: 200px;
+  display: flex;
+  gap: 80px;
+  padding-left: 80px;
+  padding-top: 100px;
+}
+
+.footerlist h2 {
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+.footerlist p {
+  font-size: 16px;
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  color: #7b838a;
+}
+
+#taskbar {
+  height: 50px;
+  width: 250px;
+  background-color: #334f6c;
+  border: none;
+  border-radius: 10px;
+}
+
+.subscribe {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -62px;
+}
+
+.subscribe h3 {
+  font-family: "rubik", sans-serif;
+  font-size: 18px;
+  color: #002347;
+  background-color: #fdc632;
+  height: 28px;
+  width: 100px;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.subscribe:hover {
+  cursor: pointer;
+}
+
+.footerlist p:hover {
+  cursor: pointer;
+  color: #eeeeee;
+}
+
+.lastheading {
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  margin-left: -1180px;
+  margin-top: 270px;
+}
+
+.lastimg {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  margin-right: -300px;
+  margin-top: -60px;
+}
